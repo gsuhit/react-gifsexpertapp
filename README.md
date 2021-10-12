@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Git
+PS D:\TFSN\React\Proyectos\04-gif-expert-app> git init
+PS D:\TFSN\React\Proyectos\04-gif-expert-app> git add .
+PS D:\TFSN\React\Proyectos\04-gif-expert-app> git commit -m "Primera App React"
+
+luego
+
+PS D:\TFSN\React\Proyectos\04-gif-expert-app> git add .
+PS D:\TFSN\React\Proyectos\04-gif-expert-app> git commit -m "Docs Agregado"
