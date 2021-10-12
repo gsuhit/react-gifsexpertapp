@@ -79,3 +79,11 @@ luego
 
 PS D:\TFSN\React\Proyectos\04-gif-expert-app> git add .
 PS D:\TFSN\React\Proyectos\04-gif-expert-app> git commit -m "Docs Agregado"
+
+luego agrego en remoto GitHub
+
+git remote add origin https://github.com/gsuhit/react-gifsexpertapp
+PS D:\TFSN\React\Proyectos\04-gif-expert-app> git push -u origin master
+
+git remote add origin https://github.com/gsuhit/react-gifsexpertapp
+git push -u origin master
